@@ -9,11 +9,11 @@
 body{
     min-height: 100vh;
     margin: 0ch;
-    /* background: rgb(12,19,50);
-    background: linear-gradient(0deg, rgba(12,19,50,1) 0%, rgba(15,42,164,1) 100%); */
-    background-image:url(/img/fondo.jpg);
+    background: rgb(12,19,50);
+    background: linear-gradient(0deg, rgba(12,19,50,1) 0%, rgba(15,42,164,1) 100%);
+    /* background-image:url(/img/fondo.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: cover; */
 }
 
 .container{
@@ -32,9 +32,9 @@ body{
     font-weight: 500;
     flex-direction: column;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.699);
+    /* background-color: rgba(0, 0, 0, 0.699);
     width: 25rem;
-    border-radius: 10%;
+    border-radius: 10%; */
 }
 
 .circulo{
