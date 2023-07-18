@@ -4,6 +4,7 @@ const btnCorreo = document.querySelector("#Correo")
 const btnInstagram = document.querySelector("#Instagram")
 const btnTikTok = document.querySelector("#Tiktok")
 const Pagina = document.querySelector("#Pagina")
+const Catalogo = document.querySelector("#Catalogo")
 
 
 
@@ -30,4 +31,8 @@ btnTikTok.addEventListener("click", ()=>{
 
 Pagina.addEventListener("click", ()=>{
     window,open('https://www.grupotecnocab.com/')
+})
+
+Catalogo.addEventListener("click", ()=>{
+    window,open('https://alumnosuady-my.sharepoint.com/:b:/g/personal/a20201353_alumnos_uady_mx/ETHv162ugpFJvaFrX7h1RLYBmp_ipN9Qtdm2I2vU1ZhMwA?e=Pv8Ubx')
 })
